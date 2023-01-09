@@ -1,0 +1,52 @@
+header{
+    text-align: center;
+    background: url("../images/Leo_bg.png");
+    background-size: cover;
+    color:black;
+}
+a{
+    color:white;
+}
+h1{
+    font-size: 70px;
+}
+img{
+    margin: 40px 0px 0px 0px;
+    border: 7pxsolid white
+    border-radius 20px;
+}
+
+ul{
+    padding-left:0; 
+    background:black;
+}
+
+
+ul{
+    padding:10px 0px 10px 0px;
+}
+li{
+    display:inline;
+    padding:0px 10px 0px 10px
+}
+article{
+    width:500px;
+    padding: 20px;
+    margin: 0px auto;
+}
+@media(max-width:500px){
+    body{
+        background:red; 
+    }
+}
+h1{
+    font-size: 36px;
+}
+li{
+   display:block;
+   padding:5px
+}
+ul{
+    padding:10px;
+    background: B6B6B4;
+}
